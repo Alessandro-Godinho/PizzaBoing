@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaBoingViews", "PizzaBoingViews\PizzaBoingViews.csproj", "{10CB4A2E-769D-41F7-B132-5CE071E0F37D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{22F8F597-6437-4B66-A326-CFE23F6EB77A} = {22F8F597-6437-4B66-A326-CFE23F6EB77A}
+		{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE} = {58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Dominio", "HelpDesk.Dominio\HelpDesk.Dominio.csproj", "{22F8F597-6437-4B66-A326-CFE23F6EB77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Repositorio", "HelpDesk.Repositorio\HelpDesk.Repositorio.csproj", "{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CB4A2E-769D-41F7-B132-5CE071E0F37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CB4A2E-769D-41F7-B132-5CE071E0F37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CB4A2E-769D-41F7-B132-5CE071E0F37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CB4A2E-769D-41F7-B132-5CE071E0F37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F8F597-6437-4B66-A326-CFE23F6EB77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F8F597-6437-4B66-A326-CFE23F6EB77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F8F597-6437-4B66-A326-CFE23F6EB77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F8F597-6437-4B66-A326-CFE23F6EB77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3ED4013-DF95-439E-9E03-BB0D7C58379E}
+	EndGlobalSection
+EndGlobal

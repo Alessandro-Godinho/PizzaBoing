@@ -1,0 +1,44 @@
+D:\Projetos\HelpDesk\HelpDesk.Dominio\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+D:\Projetos\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+D:\Projetos\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+D:\Projetos\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+D:\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+D:\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+D:\HelpDesk\HelpDesk.Dominio\obj\Debug\ResolveAssemblyReference.cache
+D:\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+D:\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll.config
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.csprojResolveAssemblyReference.cache
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll.config
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.csproj.CoreCompileInputs.cache
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Dominio\obj\Debug\HelpDesk.Dominio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,132 @@
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.csprojResolveAssemblyReference.cache
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroServicos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroFornecedor.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroIngredientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroCategorias.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroBairros.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroFuncionarios.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroClientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCompraIngredientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaServicos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaFornecedores.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaIngredientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaCategorias.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaBairros.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaFuncionarios.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPedidosBalcao.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPedidosEntrega.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaDerivacoes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaClientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmLogin.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCompraProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPedidosBalcao.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPedidosEntrega.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmInserirComposicao.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.Properties.Resources.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmTelaInicial.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.csproj.GenerateResource.Cache
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.exe.config
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.exe
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\Iesi.Collections.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\NHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\log4net.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.xml
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\Iesi.Collections.xml
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\NHibernate.xml
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPagamentoServico.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.exe
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaCompraProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPagamentoParcelas.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroTamanhos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaTamanhos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasPorBairroscs.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\RdlCompile.cache
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\RdlCompile.compiled
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasEntregasPorProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasBalcaoPorProdutos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasPorClientes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_Entregadores.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasGeral.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_ParcelasPagas_Pendentes.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.Rel_ComprasLiquidadas.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmAtualizarEstoque.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPagamentoServicos.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.txtPesquisa.resources
+C:\Users\win7\documents\visual studio 2015\Projects\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmFechamentoCaixa.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.csprojResolveAssemblyReference.cache
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmAtualizarEstoque.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmFechamentoCaixa.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroServicos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroFornecedor.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroIngredientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroCategorias.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroBairros.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroFuncionarios.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroClientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCadastroTamanhos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCompraIngredientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPagamentoServicos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaTamanhos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaServicos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaFornecedores.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaIngredientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaCategorias.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaBairros.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaFuncionarios.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPedidosBalcao.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaCompraProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaPedidosEntrega.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaDerivacoes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmConsultaClientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPagamentoParcelas.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPagamentoServico.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.txtPesquisa.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmLogin.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmCompraProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPedidosBalcao.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmPedidosEntrega.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmInserirComposicao.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.Properties.Resources.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasGeral.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasBalcaoPorProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasEntregasPorProdutos.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_Entregadores.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_ParcelasPagas_Pendentes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.Rel_ComprasLiquidadas.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasPorClientes.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmRel_VendasPorBairroscs.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.frmTelaInicial.resources
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.csproj.GenerateResource.Cache
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.csproj.CoreCompileInputs.cache
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.exe
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\obj\Debug\PizzaBoingViews.pdb
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.exe.config
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.exe
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\PizzaBoingViews.pdb
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Dominio.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Repositorio.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\Iesi.Collections.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\NHibernate.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\log4net.dll
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.pdb
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\FluentNHibernate.xml
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Dominio.pdb
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Dominio.dll.config
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Repositorio.pdb
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\HelpDesk.Repositorio.dll.config
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\Iesi.Collections.xml
+F:\PIZZABOING git\PIZZABOING\PizzaBoingViews\bin\Debug\NHibernate.xml

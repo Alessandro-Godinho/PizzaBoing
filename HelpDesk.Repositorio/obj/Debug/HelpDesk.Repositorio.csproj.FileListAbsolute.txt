@@ -1,0 +1,159 @@
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+D:\Projetos\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+C:\Users\JUNIOR\Documents\Visual Studio 2010\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+D:\HelpDesk\HelpDesk.Repositorio\obj\Debug\ResolveAssemblyReference.cache
+D:\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+D:\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+D:\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.Caches.SysCache.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.Caches.SysCache.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.Caches.SysCache.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+C:\Users\alessandro.godinho\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.Core.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\log4net.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+C:\Users\WINDOWS7\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll.config
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll.config
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\Antlr3.Runtime.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\NHibernate.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\HelpDesk.Dominio.dll.config
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.pdb
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\FluentNHibernate.xml
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\Iesi.Collections.xml
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\bin\Debug\NHibernate.xml
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.csprojResolveAssemblyReference.cache
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.csproj.CoreCompileInputs.cache
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.dll
+F:\PIZZABOING git\PIZZABOING\HelpDesk.Repositorio\obj\Debug\HelpDesk.Repositorio.pdb

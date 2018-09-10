@@ -1,0 +1,41 @@
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Repositorio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Repositorio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Antlr3.Runtime.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Castle.Core.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Iesi.Collections.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\log4net.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.Caches.SysCache.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Dominio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Castle.Core.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Castle.DynamicProxy2.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\Iesi.Collections.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\log4net.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.ByteCode.Castle.xml
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Release\HelpDesk.Repositorio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Repositorio\obj\Release\HelpDesk.Repositorio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Release\HelpDesk.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Release\HelpDesk.Repositorio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\obj\Release\HelpDesk.Repositorio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Repositorio.dll.config
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Repositorio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Repositorio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\Iesi.Collections.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\Castle.Core.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\FluentNHibernate.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\Iesi.Collections.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\log4net.xml
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Repositorio\bin\Release\NHibernate.xml

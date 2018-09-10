@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10CB4A2E-769D-41F7-B132-5CE071E0F37D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PizzaBoingViews</RootNamespace>
+    <AssemblyName>PizzaBoingViews</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PizzaBoingViews.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HelpDesk.Dominio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HelpDesk.Dominio\bin\Debug\HelpDesk.Dominio.dll</HintPath>
+    </Reference>
+    <Reference Include="HelpDesk.Repositorio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HelpDesk.Repositorio\bin\Debug\HelpDesk.Repositorio.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AtualizarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizarEstoque.Designer.cs">
+      <DependentUpon>AtualizarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FechamentoCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FechamentoCaixa.Designer.cs">
+      <DependentUpon>FechamentoCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroServicos.Designer.cs">
+      <DependentUpon>CadastroServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroFornecedor.Designer.cs">
+      <DependentUpon>CadastroFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroIngredientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroIngredientes.Designer.cs">
+      <DependentUpon>CadastroIngredientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCategorias.Designer.cs">
+      <DependentUpon>CadastroCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroBairros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroBairros.Designer.cs">
+      <DependentUpon>CadastroBairros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroFuncionarios.Designer.cs">
+      <DependentUpon>CadastroFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroProdutos.Designer.cs">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroClientes.Designer.cs">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroTamanhos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroTamanhos.Designer.cs">
+      <DependentUpon>CadastroTamanhos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompraIngredientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraIngredientes.Designer.cs">
+      <DependentUpon>CompraIngredientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPagamentoServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPagamentoServicos.Designer.cs">
+      <DependentUpon>ConsultaPagamentoServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaTamanhos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaTamanhos.Designer.cs">
+      <DependentUpon>ConsultaTamanhos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaServicos.Designer.cs">
+      <DependentUpon>ConsultaServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaFornecedores.Designer.cs">
+      <DependentUpon>ConsultaFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaIngredientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaIngredientes.Designer.cs">
+      <DependentUpon>ConsultaIngredientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaCategorias.Designer.cs">
+      <DependentUpon>ConsultaCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaBairros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaBairros.Designer.cs">
+      <DependentUpon>ConsultaBairros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaFuncionarios.Designer.cs">
+      <DependentUpon>ConsultaFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPedidosBalcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPedidosBalcao.Designer.cs">
+      <DependentUpon>ConsultaPedidosBalcao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaCompraParceladas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaCompraParceladas.Designer.cs">
+      <DependentUpon>ConsultaCompraParceladas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPedidosEntrega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPedidosEntrega.Designer.cs">
+      <DependentUpon>ConsultaPedidosEntrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaDerivacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaDerivacoes.Designer.cs">
+      <DependentUpon>ConsultaDerivacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaProdutos.Designer.cs">
+      <DependentUpon>ConsultaProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaClientes.Designer.cs">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItensVendasService.cs" />
+    <Compile Include="PagamentoParcelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagamentoParcelas.Designer.cs">
+      <DependentUpon>PagamentoParcelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PagamentoServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagamentoServicos.Designer.cs">
+      <DependentUpon>PagamentoServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InseriFracionaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InseriFracionaria.Designer.cs">
+      <DependentUpon>InseriFracionaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PizzaBoingDataSet1.cs">
+      <DependentUpon>PizzaBoingDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PizzaBoingDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PizzaBoingDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Popular.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompraProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraProdutos.Designer.cs">
+      <DependentUpon>CompraProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_VendasGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_VendasGeral.Designer.cs">
+      <DependentUpon>Rel_VendasGeral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_VendasBalcaoPorProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_VendasBalcaoPorProdutos.Designer.cs">
+      <DependentUpon>Rel_VendasBalcaoPorProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_VendasEntregasPorProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_VendasEntregasPorProdutos.Designer.cs">
+      <DependentUpon>Rel_VendasEntregasPorProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_Entregadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_Entregadores.Designer.cs">
+      <DependentUpon>Rel_Entregadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_ParcelasPagas_Pendentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_ParcelasPagas_Pendentes.Designer.cs">
+      <DependentUpon>Rel_ParcelasPagas_Pendentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_ComprasLiquidadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_ComprasLiquidadas.Designer.cs">
+      <DependentUpon>Rel_ComprasLiquidadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_VendasPorClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_VendasPorClientes.Designer.cs">
+      <DependentUpon>Rel_VendasPorClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rel_VendasPorBairroscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rel_VendasPorBairroscs.Designer.cs">
+      <DependentUpon>Rel_VendasPorBairroscs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepositorioAlteracao.cs" />
+    <Compile Include="RotinaPadrao.cs" />
+    <Compile Include="PedidosBalcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidosBalcao.Designer.cs">
+      <DependentUpon>PedidosBalcao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosEntregas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidosEntregas.Designer.cs">
+      <DependentUpon>PedidosEntregas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InserirComposicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InserirComposicao.Designer.cs">
+      <DependentUpon>InserirComposicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaInicial.Designer.cs">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ComprasService.cs" />
+    <Compile Include="ServicosService.cs" />
+    <Compile Include="VendasService.cs" />
+    <Compile Include="Verificacao.cs" />
+    <EmbeddedResource Include="AtualizarEstoque.resx">
+      <DependentUpon>AtualizarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FechamentoCaixa.resx">
+      <DependentUpon>FechamentoCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroServicos.resx">
+      <DependentUpon>CadastroServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroFornecedor.resx">
+      <DependentUpon>CadastroFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroIngredientes.resx">
+      <DependentUpon>CadastroIngredientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroCategorias.resx">
+      <DependentUpon>CadastroCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroBairros.resx">
+      <DependentUpon>CadastroBairros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroFuncionarios.resx">
+      <DependentUpon>CadastroFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroProdutos.resx">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroClientes.resx">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroTamanhos.resx">
+      <DependentUpon>CadastroTamanhos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraIngredientes.resx">
+      <DependentUpon>CompraIngredientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPagamentoServicos.resx">
+      <DependentUpon>ConsultaPagamentoServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaTamanhos.resx">
+      <DependentUpon>ConsultaTamanhos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaServicos.resx">
+      <DependentUpon>ConsultaServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaFornecedores.resx">
+      <DependentUpon>ConsultaFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaIngredientes.resx">
+      <DependentUpon>ConsultaIngredientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaCategorias.resx">
+      <DependentUpon>ConsultaCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaBairros.resx">
+      <DependentUpon>ConsultaBairros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaFuncionarios.resx">
+      <DependentUpon>ConsultaFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPedidosBalcao.resx">
+      <DependentUpon>ConsultaPedidosBalcao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaCompraParceladas.resx">
+      <DependentUpon>ConsultaCompraParceladas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPedidosEntrega.resx">
+      <DependentUpon>ConsultaPedidosEntrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaDerivacoes.resx">
+      <DependentUpon>ConsultaDerivacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaProdutos.resx">
+      <DependentUpon>ConsultaProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaClientes.resx">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagamentoParcelas.resx">
+      <DependentUpon>PagamentoParcelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagamentoServicos.resx">
+      <DependentUpon>PagamentoServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InseriFracionaria.resx">
+      <DependentUpon>InseriFracionaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraProdutos.resx">
+      <DependentUpon>CompraProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosBalcao.resx">
+      <DependentUpon>PedidosBalcao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosEntregas.resx">
+      <DependentUpon>PedidosEntregas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InserirComposicao.resx">
+      <DependentUpon>InserirComposicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Relatorios\Rel_ComprasLiquidadas.rdlc" />
+    <EmbeddedResource Include="Relatorios\Rel_ParcelasPagas_Pendentes.rdlc" />
+    <EmbeddedResource Include="Relatorios\Rel_VendasGeral.rdlc" />
+    <EmbeddedResource Include="Relatorios\Rel_VendasClientes.rdlc" />
+    <EmbeddedResource Include="Relatorios\Rel_Entregas.rdlc" />
+    <EmbeddedResource Include="Relatorios\vendasbalcaoporprodutos.rdlc" />
+    <EmbeddedResource Include="Relatorios\vendasentregaporprodutos.rdlc" />
+    <EmbeddedResource Include="Rel_VendasGeral.resx">
+      <DependentUpon>Rel_VendasGeral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_VendasBalcaoPorProdutos.resx">
+      <DependentUpon>Rel_VendasBalcaoPorProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_VendasEntregasPorProdutos.resx">
+      <DependentUpon>Rel_VendasEntregasPorProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_Entregadores.resx">
+      <DependentUpon>Rel_Entregadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_ParcelasPagas_Pendentes.resx">
+      <DependentUpon>Rel_ParcelasPagas_Pendentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_ComprasLiquidadas.resx">
+      <DependentUpon>Rel_ComprasLiquidadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_VendasPorClientes.resx">
+      <DependentUpon>Rel_VendasPorClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_VendasPorBairroscs.resx">
+      <DependentUpon>Rel_VendasPorBairroscs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Rel_VendasBairro.rdlc" />
+    <EmbeddedResource Include="TelaInicial.resx">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="PizzaBoingDataSet1.xsc">
+      <DependentUpon>PizzaBoingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PizzaBoingDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PizzaBoingDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PizzaBoingDataSet1.xss">
+      <DependentUpon>PizzaBoingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

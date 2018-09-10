@@ -1,0 +1,11 @@
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Release\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\bin\Release\HelpDesk.Dominio.pdb
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Release\HelpDesk.Dominio.dll
+C:\Users\Doctus_04\Documents\ESTAGIO\HelpDesk\HelpDesk.Dominio\obj\Release\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Release\HelpDesk.Dominio.dll.config
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Release\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Release\HelpDesk.Dominio.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\bin\Release\Antlr3.Runtime.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Release\HelpDesk.Dominio.dll
+C:\Users\win7\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Dominio\obj\Release\HelpDesk.Dominio.pdb

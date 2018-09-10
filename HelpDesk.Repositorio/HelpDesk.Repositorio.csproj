@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58DF31C9-F604-4AAF-B9D1-6F8BD75AE1BE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HelpDesk.Repositorio</RootNamespace>
+    <AssemblyName>HelpDesk.Repositorio</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.1.0.39271, Culture=neutral, PublicKeyToken=3a9cab8f8d22bfb7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core, Version=1.1.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Castle.Windsor.3.2.0\net40-client\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\PIZZABOING\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\..\PIZZABOING\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\NHibernate-4.1.1.GA-bin\Tests\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\..\PIZZABOING\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuracao\NHibernateHelper.cs" />
+    <Compile Include="Mapeamento\AutenticacoesMAP.cs" />
+    <Compile Include="Mapeamento\EstoqueMassaMAP.cs" />
+    <Compile Include="Mapeamento\TamanhosMAP.cs" />
+    <Compile Include="Mapeamento\ItensCompraIngredientesMAP.cs" />
+    <Compile Include="Mapeamento\ServicosPagoMAP.cs" />
+    <Compile Include="Mapeamento\ServicosMAP.cs" />
+    <Compile Include="Mapeamento\PromocoesMAP.cs" />
+    <Compile Include="Mapeamento\ParcelasMAP.cs" />
+    <Compile Include="Mapeamento\FornecedoresMAP.cs" />
+    <Compile Include="Mapeamento\DerivacoesMAP.cs" />
+    <Compile Include="Mapeamento\BairrosMAP.cs" />
+    <Compile Include="Mapeamento\CategoriasMAP.cs" />
+    <Compile Include="Mapeamento\EntregasMAP.cs" />
+    <Compile Include="Mapeamento\FuncionariosMAP.cs" />
+    <Compile Include="Mapeamento\IngredientesMAP.cs" />
+    <Compile Include="Mapeamento\IngredientesProdutosMAP.cs" />
+    <Compile Include="Mapeamento\ItensCompraProdutosMAP.cs" />
+    <Compile Include="Mapeamento\ItensPedidoMAP.cs" />
+    <Compile Include="Mapeamento\ComprasMAP.cs" />
+    <Compile Include="Mapeamento\PedidosBalcaoMAP.cs" />
+    <Compile Include="Mapeamento\PedidosEntregaMAP .cs" />
+    <Compile Include="Mapeamento\ClientesMAP.cs" />
+    <Compile Include="Mapeamento\ProdutosMAP.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositorioFechamentoCaixa .cs" />
+    <Compile Include="RepositorioEstoqueMassas .cs" />
+    <Compile Include="RepositorioTamanhos.cs" />
+    <Compile Include="RepositorioItensCompraIngredientes.cs" />
+    <Compile Include="RepositorioServicosPago.cs" />
+    <Compile Include="RepositorioServicos.cs" />
+    <Compile Include="RepositorioCompras.cs" />
+    <Compile Include="RepositorioDerivacoes.cs" />
+    <Compile Include="RepositorioFornecedores.cs" />
+    <Compile Include="RepositorioItensCompras.cs" />
+    <Compile Include="RepositorioParcelas.cs" />
+    <Compile Include="RepositorioPromocoes.cs" />
+    <Compile Include="RepositorioBase.cs" />
+    <Compile Include="RepositorioAutenticacao.cs" />
+    <Compile Include="RepositorioBairros.cs" />
+    <Compile Include="RepositorioCategorias.cs" />
+    <Compile Include="RepositorioEntregas.cs" />
+    <Compile Include="RepositorioFuncionarios.cs" />
+    <Compile Include="RepositorioIngredientes.cs" />
+    <Compile Include="RepositorioIngredientesProdutos.cs" />
+    <Compile Include="RepositorioItensPedido.cs" />
+    <Compile Include="RepositorioClientes.cs" />
+    <Compile Include="RepositorioPedidosBalcao.cs" />
+    <Compile Include="RepositorioPedidosEntregas.cs" />
+    <Compile Include="RepositorioProdutos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelpDesk.Dominio\HelpDesk.Dominio.csproj">
+      <Project>{22f8f597-6437-4b66-a326-cfe23f6eb77a}</Project>
+      <Name>HelpDesk.Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
